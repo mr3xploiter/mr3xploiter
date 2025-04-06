@@ -16,17 +16,26 @@
 ### 🔥 About Me
 
 - 🧠 Young Exploiter from Bangladesh
-- 🎯 Passionate about Cybersecurity, Ethical Hacking, and Coding
-- 💻 Love playing with Linux, Exploits, and Scripts
-- ⚙️ Currently learning **Penetration Testing & Bug Hunting**
-- 🛠 Tools of the trade: Kali Linux, Python, Bash, Metasploit
+- 🎯 Passionate about Cybersecurity, Ethical Hacking, and Full-stack Development
+- 💻 Love playing with Linux, Exploits, AI, and Modern Web Tech
+- ⚙️ Currently mastering **Penetration Testing**, **AI Bots**, and **Convex-powered Applications**
+- 🧪 Founder of `Siam's Technology` and Creator of `Quba AI`, `Oris AI`, and `Wobble`
 
 ---
 
-### 🛠️ Tools & Tech Stack
+### 🧠 Skills & Tech Stack
 
 ```bash
-💻 OS       : Kali Linux, Ubuntu, Parrot OS
-🌐 Tools    : Burp Suite, Nmap, Wireshark, Metasploit
-🔐 Skills   : Exploitation, Info Gathering, Scripting
-📜 Langs    : Python, Bash, JavaScript (little bit)
+💻 OS       : Kali Linux, Ubuntu, Parrot OS, Windows WSL
+🌐 Web      : HTML, CSS, JavaScript, TailwindCSS, SCSS
+⚛️ Frontend : React.js, Next.js, React Native, TypeScript
+🔮 Backend  : Node.js, Express.js, Convex, Firebase
+📱 Mobile   : React Native (Android), Expo, NativeBase
+🧠 AI/ML    : Gemini API, OpenAI, LangChain (Learning)
+📜 Scripting: Python, Bash, Shell, JavaScript
+🔐 Security : Info Gathering, XSS, SQLi, Recon, Payload Dev
+🛠️ Tools   : Nmap, Burp Suite, Metasploit, Wireshark
+📦 Package  : Bun, npm, yarn
+☁️ Hosting : Vercel, Netlify, GitHub Pages
+🔧 DevOps   : Git, GitHub, Linux CLI, Gnome Terminal
+📚 DB       : Convex, MongoDB, Firebase Firestore
