@@ -94,15 +94,6 @@ then rebuilding them **stronger, smarter, and deadlier**. ⚔️
 
 ---
 
-## 🚀 Projects
-
-🧠 **Quba AI** – Smart AI assistant  
-🤖 **Oris AI** – Advanced conversational bot  
-🎨 **Wobble** – Experimental creative tech  
-🏴‍☠️ **Siam's Technology** – Innovation hub
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
