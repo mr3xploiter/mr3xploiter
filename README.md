@@ -26,7 +26,6 @@
 </p>
 
 ---
-<img src="code.png" align="center" alt="code">
 ## 🧠 About Me
 
 💀 I’m **Siam Mahmud**, a relentless **young hacker from Bangladesh 🇧🇩**  
