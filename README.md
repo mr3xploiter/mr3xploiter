@@ -36,7 +36,6 @@ I live where **code meets chaos** — breaking systems to understand them,
 then rebuilding them **stronger, smarter, and deadlier**. ⚔️
 
 - 🎯 Mission: **Secure the digital world**
-- 🧪 Founder: **Siam's Technology**
 - 🧠 Mindset: **Think like an attacker, build like an engineer**
 - ⚙️ Currently Grinding: **Pentesting • AI Agents • Convex Apps**
 
